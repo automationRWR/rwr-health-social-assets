@@ -30,3 +30,27 @@ To everyone caring for others on shift today, thank you. Enjoy the break if you 
 #RWRHealth #LabourDay #NZHealth #HealthcareCareers #ThankYou
 
 Alt text: White graphic with a blue circle and the words Happy Labour Day. To everyone caring for others on shift today, thank you.
+
+
+## Buffer IDs
+
+All scheduled in Buffer (Instagram, rwrhealth_). Labour Day post: 6acf0d81b610c3011f9ff91b.
+
+| Row | Post ID | Reel ID |
+|---|---|---|
+| 14 | 6ace227e76384aa24c2d8d72 | 6ace2280247734bd9136c433 |
+| 19 | 6ace2282247734bd9136c50b | 6ace22847c54ccc397c1bed0 |
+| 20 | 6ace228676384aa24c2d93f2 | 6ace2288b7b7fb6d7b087241 |
+| 21 | 6ace228abeafe9032bf33b37 | 6ace2290b4d66b8b80b68309 |
+| 22 | 6ace2292b4d66b8b80b68349 | 6ace2294b4d66b8b80b6838d |
+| 23 | 6ace2297247734bd9136ca87 | 6ace2299beafe9032bf34060 |
+| 24 | 6ace229bb7b7fb6d7b087640 | 6ace229db4d66b8b80b685e8 |
+| 25 | 6ace22a2beafe9032bf3432a | 6ace22a47c54ccc397c1c806 |
+| 26 | 6ace22a7247734bd9136d018 | 6ace22a9247734bd9136d0c9 |
+| 27 | 6ace22ab76384aa24c2da44f | 6ace22ad247734bd9136d1ed |
+| 28 | 6ace22af7c54ccc397c1ce1c | 6ace22b776384aa24c2da75e |
+| 29 | 6ace22b9b7b7fb6d7b0882f6 | 6ace22bb247734bd9136d65c |
+| 30 | 6ace22be247734bd9136d6c8 | 6acf0d7bf847f2ad9ec2cb55 |
+| 31 | 6acf0d7d0ab87a16c8e2bf25 | 6acf0d80f847f2ad9ec2cc4e |
+
+Rule notes: row 14 avoids NZ Labour Day (Mon 26 Oct). Row 31 pulled back from 24 Dec to Wed 23 Dec (last working day before shutdown). Items shifted 3 hours where another Health post already held the 12:00 slot.
