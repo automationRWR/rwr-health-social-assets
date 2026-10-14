@@ -11,6 +11,8 @@ Flat vector key-date content with the full brand lockup on every frame. Saved to
 | Mon 21 Dec 2026 10:00am AEDT | End of year shutdown | Animated post 1080x1350 | `posts/04-end-of-year-shutdown.mp4` |
 | Sat 26 Dec 2026 10:00am AEDT | Boxing Day | Animated post 1080x1350 | `posts/12-boxing-day.mp4` |
 | Fri 1 Jan 2027 10:00am AEDT | New Year | Animated post 1080x1350 | `posts/05-new-year.mp4` |
+| Fri 22 Jan 2027 10:00am AEDT | Wellington Anniversary Day | Animated post 1080x1350 | `posts/27-wellington-anniversary.mp4` |
+| Fri 29 Jan 2027 10:00am AEDT | Auckland Anniversary Day | Animated post 1080x1350 | `posts/28-auckland-anniversary.mp4` |
 | Sat 6 Feb 2027 10:00am AEDT | Waitangi Day | Animated post 1080x1350 | `posts/06-waitangi-day.mp4` |
 | Fri 26 Feb 2027 10:00am AEDT | WA Labour Day | Animated post 1080x1350 | `posts/14-wa-labour-day.mp4` |
 | Fri 5 Mar 2027 10:00am AEDT | VIC Labour Day | Animated post 1080x1350 | `posts/15-vic-labour-day.mp4` |
